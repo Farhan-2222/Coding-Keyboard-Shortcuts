@@ -7,6 +7,7 @@ This file contains some shortcuts which can be very useful while working in atom
 
 ## For windows user:
 Preference/Settings : Ctrl + ,
+
 Command Pallete : Shift + Ctrl + p
 Open file : Ctrl + o
 Previous tab : Ctrl + pageup
