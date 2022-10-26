@@ -1,7 +1,5 @@
 # About:
 This file contains some shortcuts which can be very useful while working in atom text editor. :)
-
-
 <br>
 
 # Shortcuts:
