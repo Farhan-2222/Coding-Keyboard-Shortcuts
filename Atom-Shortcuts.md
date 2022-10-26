@@ -2,7 +2,7 @@
 This file contains some shortcuts which can be very useful while working in atom text editor. :)
 
 
-
+<br><br>
 # Shortcuts:
 
 ## For windows user:
@@ -61,10 +61,10 @@ Delete line : Ctrl + shift + k<br>
 Move line up : Ctrl + Cmd + up<br>
 Move line down : Ctrl + Cmd + down<br>
 Find/Replace : Cmd + f<br>
-Go to line : Ctrl + g
-Select line : Cmd + l
-Undo : Cmd + z
-Redo : Cmd + shift + z
-Cut : Cmd + x
-Paste : Cmd + v
-Select All : Cmd + A
+Go to line : Ctrl + g<br>
+Select line : Cmd + l<br>
+Undo : Cmd + z<br>
+Redo : Cmd + shift + z<br>
+Cut : Cmd + x<br>
+Paste : Cmd + v<br>
+Select All : Cmd + A<br>
