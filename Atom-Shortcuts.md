@@ -6,16 +6,16 @@ This file contains some shortcuts which can be very useful while working in atom
 # Shortcuts:
 
 ## For windows user:
-Preference/Settings : Ctrl + ,
-Command Pallete : Shift + Ctrl + p
-Open file : Ctrl + o
-Previous tab : Ctrl + pageup
-Next tab : Ctrl + pagedown
-Grammar Selector : Ctrl + shift + l
-Markdown Preview : Ctrl + shift + m
-Toggle tree view : Ctrl + \
-Reload Atom : Alt + Ctrl + r
-Toggle Developer Tools : Ctrl + alt + i
+Preference/Settings : Ctrl + ,<br>
+Command Pallete : Shift + Ctrl + p<br>
+Open file : Ctrl + o<br>
+Previous tab : Ctrl + pageup<br>
+Next tab : Ctrl + pagedown<br>
+Grammar Selector : Ctrl + shift + l<br>
+Markdown Preview : Ctrl + shift + m<br>
+Toggle tree view : Ctrl + \<br>
+Reload Atom : Alt + Ctrl + r<br>
+Toggle Developer Tools : Ctrl + alt + i<br>
 Show Available Snippets : Alt + shift + s
 New file : Ctrl + n
 New window : Ctrl + shift + n
