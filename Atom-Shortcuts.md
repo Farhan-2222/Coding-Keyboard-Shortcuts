@@ -41,26 +41,26 @@ Select All : Ctrl + A<br>
 Preference/Settings : Cmd + ,<br>
 Command Pallete : Shift + Cmd + p<br>
 Open file : Cmd + o<br>
-Previous tab : Alt + Cmd + left
-Next tab : Alt + Cmd + right
-Grammar Selector : Ctrl + shift + l
-Markdown Preview : Ctrl + shift + m
-Toggle tree view : Cmd + \
-Reload Atom : Alt + Ctrl + Cmd + l
-Toggle Developer Tools : Cmd + alt + i
-Show Available Snippets : Alt + shift + s
-New file : Cmd + n
-New window : Cmd + shift + n
-Open folder : Cmd + shift + o
-Save : Cmd + s
-Save as : Cmd + shift + s
-Close tab : Cmd + w
-Close window : Cmd + shift + w
-Duplicate line : Cmd + shift + d
-Delete line : Ctrl + shift + k
-Move line up : Ctrl + Cmd + up
-Move line down : Ctrl + Cmd + down
-Find/Replace : Cmd + f
+Previous tab : Alt + Cmd + left<br>
+Next tab : Alt + Cmd + right<br>
+Grammar Selector : Ctrl + shift + l<br>
+Markdown Preview : Ctrl + shift + m<br>
+Toggle tree view : Cmd + \<br>
+Reload Atom : Alt + Ctrl + Cmd + l<br>
+Toggle Developer Tools : Cmd + alt + i<br>
+Show Available Snippets : Alt + shift + s<br>
+New file : Cmd + n<br>
+New window : Cmd + shift + n<br>
+Open folder : Cmd + shift + o<br>
+Save : Cmd + s<br>
+Save as : Cmd + shift + s<br>
+Close tab : Cmd + w<br>
+Close window : Cmd + shift + w<br>
+Duplicate line : Cmd + shift + d<br>
+Delete line : Ctrl + shift + k<br>
+Move line up : Ctrl + Cmd + up<br>
+Move line down : Ctrl + Cmd + down<br>
+Find/Replace : Cmd + f<br>
 Go to line : Ctrl + g
 Select line : Cmd + l
 Undo : Cmd + z
