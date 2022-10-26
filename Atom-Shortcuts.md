@@ -16,14 +16,14 @@ Markdown Preview : Ctrl + shift + m<br>
 Toggle tree view : Ctrl + \<br>
 Reload Atom : Alt + Ctrl + r<br>
 Toggle Developer Tools : Ctrl + alt + i<br>
-Show Available Snippets : Alt + shift + s
-New file : Ctrl + n
-New window : Ctrl + shift + n
-Open folder : Ctrl + shift + o
-Save : Ctrl + s
-Save as : Ctrl + shift + s
-Close tab : Ctrl + shift + w
-Close window : Ctrl + shift + w
+Show Available Snippets : Alt + shift + s<br>
+New file : Ctrl + n<br>
+New window : Ctrl + shift + n<br>
+Open folder : Ctrl + shift + o<br>
+Save : Ctrl + s<br>
+Save as : Ctrl + shift + s<br>
+Close tab : Ctrl + shift + w<br>
+Close window : Ctrl + shift + w<br>
 Duplicate line : Ctrl + shift + d
 Delete line : Ctrl + shift + k
 Move line up : Ctrl + up
