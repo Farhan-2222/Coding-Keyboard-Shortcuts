@@ -3,6 +3,7 @@ This file contains some shortcuts which can be very useful while working in atom
 
 
 <br>
+
 # Shortcuts:
 
 ## For windows user:
