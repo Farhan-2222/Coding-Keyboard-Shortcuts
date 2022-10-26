@@ -24,23 +24,23 @@ Save : Ctrl + s<br>
 Save as : Ctrl + shift + s<br>
 Close tab : Ctrl + shift + w<br>
 Close window : Ctrl + shift + w<br>
-Duplicate line : Ctrl + shift + d
-Delete line : Ctrl + shift + k
-Move line up : Ctrl + up
-Move line down : Ctrl + down
-Find/Replace : Ctrl + f
-Go to line : Ctrl + g
-Select line : Ctrl + /
-Undo : Ctrl + z
-Redo : Ctrl + y
-Cut : Ctrl + x
-Paste : Ctrl + v
-Select All : Ctrl + A
+Duplicate line : Ctrl + shift + d<br>
+Delete line : Ctrl + shift + k<br>
+Move line up : Ctrl + up<br>
+Move line down : Ctrl + down<br>
+Find/Replace : Ctrl + f<br>
+Go to line : Ctrl + g<br>
+Select line : Ctrl + /<br>
+Undo : Ctrl + z<br>
+Redo : Ctrl + y<br>
+Cut : Ctrl + x<br>
+Paste : Ctrl + v<br>
+Select All : Ctrl + A<br>
 
 ## For mac user:
-Preference/Settings : Cmd + ,
-Command Pallete : Shift + Cmd + p
-Open file : Cmd + o
+Preference/Settings : Cmd + ,<br>
+Command Pallete : Shift + Cmd + p<br>
+Open file : Cmd + o<br>
 Previous tab : Alt + Cmd + left
 Next tab : Alt + Cmd + right
 Grammar Selector : Ctrl + shift + l
